@@ -1,0 +1,10 @@
+name: MayorElection
+version: 1.0
+author: Smokss
+main: com.example.mayorelection.MayorElectionPlugin
+api-version: 1.18
+description: Plugin Vote.
+commands:
+  vote:
+    description: Vote pour le maire.
+    usage: /vote <player>
